@@ -46,7 +46,7 @@ This system eliminates all of that.
 
 ## 📸 Screenshots
 
-*(Add screenshots of the app here)*
+*(Extract the zip and see)*
 
 ---
 
